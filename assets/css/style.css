@@ -1,0 +1,42 @@
+.btn1{
+    width: 3%;
+    height: 10%;
+    margin-top: 25%;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 100%;
+}
+.btn1:hover{
+  background-color: brown;
+}
+.img1{
+    align-items: center;
+    display: inline-block;
+}
+li{
+  list-style: none;
+}
+nav li:hover{
+  color: red;
+  background-color: brown;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+}
+.revers{
+  flex-direction: row-reverse;
+}
+.background{
+  background-image: url(./../img/footer_ad0f20f1-29b5-4188-8127-a6667ac6aea9.webp);
+}
+.background2{
+  background-image: url(./../img/footer_ad0f20f1-29b5-4188-8127-a6667ac6aea9.webp);
+  height: 500px;
+  margin-top: 50px;
+}
+h5{
+  margin-top: 150px;
+}
+.cards{
+  margin: 20px;
+  width: 1000px;
+}
